@@ -27,5 +27,18 @@ O projeto é dividido em 3 abas:<br>
 ![image](https://user-images.githubusercontent.com/86500603/233467202-43b7007a-71cb-4631-a245-73d2a6daea88.png)
 
 ### Projeto 3
+[Projeto3Excel.xlsx](https://github.com/fkmakita/Excel_Projetos/files/11299850/Projeto3Excel.xlsx)
 
-Futuro projeto de simulação e análise de cenários
+Nesta revisão foi desenvolvido um projeto de simulação e análise de diferentes cenários. Para isto, foram revistos alguns fundamentos de simulação e análise de cenários. 
+<br><br>
+O projeto é dividido em 5 abas:<br>
+'vendas' - que é a base de dados deste projeto e categoriza as vendas entre PF e PJ<br>
+'simulações' - onde foi desenvolvida a primeira Tabela de Dados através da ferramenta Teste de Hipóteses, gerando diferentes cenários com um incremento mensal de 10% no volume de vendas<br>
+'simulações 2' e 'simulações 3' - onde foram criados os perfis de cenário "Conservador", "Base" e "Agressivo", adicionando a possibilidade de alternar entre cenários pré-definidos através de uma lista drop-down<br>
+'simulações 4' - onde foi testado a ferramenta de Atingir Meta, onde variamos o parâmetro de teste para atingir o valor de receita esperado<br>
+<br>
+![image](https://user-images.githubusercontent.com/86500603/233751509-9eedbad5-ee49-4a65-bcf1-49f9fecbf382.png)
+
+### Projeto 4
+
+Futuro projeto de análise de dados com Excel: cálculos, padrões e estratégias.
