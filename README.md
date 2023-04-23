@@ -17,7 +17,7 @@ O projeto é dividido em 4 abas:<br>
 [Projeto2Excel.xlsx](https://github.com/fkmakita/Excel_Projetos/files/11289855/Projeto2Excel.xlsx)
 
 Nesta revisão foi desenvolvido um projeto de controle de rotas de transporte de produtos. Para isto, foram revistos alguns fundamentos de tabelas dinâmicas e visualização de dados através da criação de Dashboards. No projeto teórico foi desenvolvido um filtro adicional de inteligência temporal, 'Data Contrato', que pode ser visualizado no link fornecido pelo professor Sabino: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcaelum-online-public.s3.amazonaws.com%2F1615-excel-tabelas-dinamicas%2FControle%2Bde%2BRotas%2BRSabino%2BTransportes%2B%2528fim%2Baula%2B5%2529.xlsx&wdOrigin=BROWSELINK<br>
-Como a versão do WPS Office que estou utilizando não comporta esse tipo de visualização, irei trazer em outro momento este mesmo projeto em Power BI.
+Como a versão do WPS Office que estou utilizando não comporta esse tipo de visualização, irei trazer em outro momento este mesmo projeto em Power BI no repositório PowerBI_Projetos.
 <br><br>
 O projeto é dividido em 3 abas:<br>
 'Dashboard' - onde estão consolidados os Dashboards e os 3 painéis: Logística, Veículos e Cargas<br>
