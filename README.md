@@ -39,6 +39,6 @@ O projeto é dividido em 5 abas:<br>
 <br>
 ![image](https://user-images.githubusercontent.com/86500603/233751509-9eedbad5-ee49-4a65-bcf1-49f9fecbf382.png)
 
-### Projeto 4
+### Projeto 4 - WIP
 
 Futuro projeto de análise de dados com Excel: cálculos, padrões e estratégias.
