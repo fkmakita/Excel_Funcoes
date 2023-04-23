@@ -1,7 +1,7 @@
 # Excel Projetos
-Projetos de revisão do Excel com curso da Alura.
-<br><br>
-### Projeto 1
+Repositório de alguns projetos de Excel.
+<br>
+### Projeto 1 - Alura
 [Arquivo Projeto 1](https://github.com/fkmakita/Excel_Projetos/files/11277103/Projeto1Excel.xlsx)
 
 Nesta revisão foi desenvolvido um projeto de controle de estoque de venda de calçados. Para isto, foram revistos alguns fundamentos de funções, como: PROC's, DESLOC, funções aninhadas, formatações condicionais e etc. Achei interessante trazer este projeto aqui pelo design da aba 'Procura em Estoque' e por trazer algumas ideias pensadas na usabilidade da planilha, focando em pontos onde os usuários poderiam ter dificuldades.<br><br>
@@ -13,14 +13,14 @@ O projeto é dividido em 4 abas:<br>
 <br><br>
 ![image](https://user-images.githubusercontent.com/86500603/233184974-6e429894-286f-4c5f-a30c-11270388dbb9.png)
 
-### Projeto 2
+### Projeto 2 - Alura
 [Projeto2Excel.xlsx](https://github.com/fkmakita/Excel_Projetos/files/11289855/Projeto2Excel.xlsx)
 
 Nesta revisão foi desenvolvido um projeto de controle de rotas de transporte de produtos. Para isto, foram revistos alguns fundamentos de tabelas dinâmicas e visualização de dados através da criação de Dashboards. No projeto teórico foi desenvolvido um filtro adicional de inteligência temporal, 'Data Contrato', que pode ser visualizado no link fornecido pelo professor Sabino: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcaelum-online-public.s3.amazonaws.com%2F1615-excel-tabelas-dinamicas%2FControle%2Bde%2BRotas%2BRSabino%2BTransportes%2B%2528fim%2Baula%2B5%2529.xlsx&wdOrigin=BROWSELINK<br>
 Como a versão do WPS Office que estou utilizando não comporta esse tipo de visualização, irei trazer em outro momento este mesmo projeto em Power BI no repositório PowerBI_Projetos.
 <br><br>
 O projeto é dividido em 3 abas:<br>
-'Dashboard' - onde estão consolidados os Dashboards e os 3 painéis: Logística, Veículos e Cargas<br>
+'Dashboard' - onde estão consolidados os Dashboards e os 3 painéis: Logística, Veículos e Cargas (os dois últimos são Dummies para exemplificar sub abas dentro de uma aba)<br>
 'Tabelas Dinâmicas' - onde podemos filtrar os valores de Contrato, Peso e Destino por Cliente<br>
 'Controle de Entregas' - que é a nossa base de dados para construção dos Dashboards e Tabelas Dinâmicas
 <br><br>
